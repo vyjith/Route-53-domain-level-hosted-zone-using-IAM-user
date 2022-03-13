@@ -21,7 +21,7 @@ A hosted zone is an Amazon Rote 53 concept. A hosted zone is analogous to a trad
 IAM Policy
 -------------------------------------------------- 
 
-### Policy i have created for the John user to manage the www.google.com domain using IAM :
+### Policy i have created for the John user to manage the example.com domain using IAM :
 
 
 ```
