@@ -57,3 +57,13 @@ IAM Policy
 
 
 Please access your domain hosted zone dashboard and you will get the hosted zone ID, please check [here](https://i.ibb.co/Zfb9C7Y/image.png) more infomration regarding the hosted zone ID
+
+
+## Conclusion
+
+This article explains how to allow access to specific hosted zones with Route 53 and IAM Route 53 - Hosted zone domain level restriction using IAM POLICY. Thank you!
+
+### ⚙️ Connect with Me
+<p align="center">
+<a href="https://www.instagram.com/iamvyjith/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vyjith-ks-3bb8b7173/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
