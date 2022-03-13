@@ -56,7 +56,9 @@ IAM Policy
 > In the above Rosource section, replace the resource's hosted zone ID for your domain. In my case "Resource": "arn:aws:route53:::hostedzone/Z06144853TPKZNO30IBQX"
 
 
-Please access your domain hosted zone dashboard and you will get the hosted zone ID, please check [here](https://i.ibb.co/Zfb9C7Y/image.png) more infomration regarding the hosted zone ID
+Please access your domain hosted zone dashboard and you will get the hosted zone ID, please check following image more infomration regarding the hosted zone ID
+
+![](https://i.ibb.co/Zfb9C7Y/image.png)
 
 
 ## Conclusion
