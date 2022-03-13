@@ -16,7 +16,7 @@ A hosted zone is an Amazon Rote 53 concept. A hosted zone is analogous to a trad
 
 #### Step 1: After logging in to the [Amazon console](https://console.aws.amazon.com/iamv2/home?#/policies), create a policy for the user. You can check more information regarding the IAM policy [here](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
 
-#### Step2: [Create an user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html) after access (IAM user console)[https://console.aws.amazon.com/iamv2/home?#/users] and then attach the previously created policy to this user.
+#### Step2: [Create an user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html) after access [IAM user console](https://console.aws.amazon.com/iamv2/home?#/users) and then attach the previously created policy to this user.
 
 IAM Policy
 -------------------------------------------------- 
